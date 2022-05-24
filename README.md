@@ -1,1 +1,1 @@
-fullstack open(part1)
+FULL STACK OPEN (PART1)
